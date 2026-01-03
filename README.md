@@ -179,18 +179,5 @@ The system includes sample voters and candidates for testing purposes. Check the
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
-## License
-
-This project is open source. Please check the license file for specific terms and conditions.
-
-## Support
-
-For technical support or questions:
-- Check the documentation in the `documentation/` folder
-- Review the database schema and system diagrams
-- Examine the code comments for implementation details
-
 ---
 
-**Note**: This system is designed for educational and organizational use. Ensure proper security measures are implemented before deploying in production environments.
