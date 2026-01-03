@@ -100,7 +100,6 @@ The system includes sample voters and candidates for testing purposes. Check the
 │   └── photo/           # User profile photos
 ├── db/                   # Database schema and setup
 ├── tcpdf/               # PDF generation library
-└── documentation/       # System documentation and diagrams
 ```
 
 ## Usage Guide
